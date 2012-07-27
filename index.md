@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: HiØ dev guides
+tagline: Guides to get started developing the Østfold University College web and mobile platform
 ---
 {% include JB/setup %}
 
