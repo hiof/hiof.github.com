@@ -24,11 +24,11 @@ tagline: Guides to get started developing the Østfold University College web an
 
 4.  License
 
-## Introduction
 
 
 
-## Posts
+
+## All posts
 
 <ul class="posts">
   {% for post in site.posts %}
