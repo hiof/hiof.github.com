@@ -8,7 +8,7 @@ tagline: Guides to get started developing the Østfold University College web an
 ## Table of Contents
 
 
-1.  Introduction
+1.  [Introduction](http://hiof.github.com/information/2012/07/27/introduction/)
 
 2.  Installation 
 
@@ -20,9 +20,9 @@ tagline: Guides to get started developing the Østfold University College web an
 
     2.4 Installation on Linux
 
-3.  Versioning Policy
+3.  [Versioning Policy](http://hiof.github.com/information/2012/07/27/versioning-policy/)
 
-4.  License
+4.  [License](http://hiof.github.com/information/2012/07/27/license/)
 
 
 
