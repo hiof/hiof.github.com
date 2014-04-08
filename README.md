@@ -1,1 +1,0 @@
-# [Check out the site for more information](http://hiof.github.com)
